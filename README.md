@@ -69,13 +69,6 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 
 ---
 
-## GitHub Activity
-
-![Robert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=borbert&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-
----
-
 ## Random Facts
 
 - ☕ Coffee addict
