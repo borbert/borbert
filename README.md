@@ -1,4 +1,4 @@
-# Hi, I'm Robert 👋
+# Hi, I'm Bob 👋
 
 📍 **Mount Pleasant, NC** | 💊 **PharmD** | 🤖 **AI/ML Engineer** | 🏥 **Healthcare Technologist**
 
