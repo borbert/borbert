@@ -84,7 +84,7 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 - ☕ Coffee addict
 - 📚 Learning junkie — always enrolled in something
 - ✈️ Aspiring world traveler
-- 💊 Ask me anything about health system pharmacy operatoins, pharmacy data, or 340B — I've been deep in the weeds
+- 💊 Ask me anything about health system pharmacy operations, pharmacy data, or 340B — I've been deep in the weeds
 
 ---
 
