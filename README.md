@@ -24,10 +24,7 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 ---
 
 ## What I'm Building
-
-- 🤖 AI/ML applied to pharmacy & healthcare — predictive models, NLP on clinical text, LLM workflows
-- 🛠️ Personal projects to sharpen my software engineering depth
-- 🌱 Tools that solve local problems others probably share
+- [Snap2Shop](https://sanp2shop.net)
 
 ---
 
