@@ -25,6 +25,8 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 
 ## What I'm Building
 - [Snap2Shop](https://snap2shop.net)
+- [RedditRadar](https://redditradar.borbert.workers.dev/)
+- [TripPlanner](https://trip-planner.borbert.workers.dev/)
 
 ---
 
