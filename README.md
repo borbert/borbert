@@ -19,7 +19,7 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 - 🏢 Founder, **[Innovative Tech Consulting](https://innovative-tech-consulting.com)** — technology & AI solutions for real-world problems
 - 🏥 Director of Pharmacy Data Analytics & Innovation at a major health system
 - ⚙️ Lean Six Sigma Black Belt — I automate before I do anything manually twice
-- 🎖️ Army National Guard veteran — Operation Noble Eagle
+- 🎖️ Army Veteran
 
 ---
 
