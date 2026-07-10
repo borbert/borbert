@@ -7,7 +7,7 @@
 [![Healthcare](https://img.shields.io/badge/-Healthcare%20Data%20%26%20Analytics-E63946?style=flat-square&logo=redcross&logoColor=white)](https://github.com/borbert)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/borbert)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-[![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)](https://github.com/borbert)
+
 
 > Using AI to bend the cost curve in healthcare. Pharmacist by training, engineer by obsession.
 
