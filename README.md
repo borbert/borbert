@@ -1,5 +1,7 @@
 # Hi, I'm Bob 👋
 
+[](cat ascii-avatar.html)
+
 📍 **Mount Pleasant, NC** | 💊 **PharmD** | 🤖 **AI/ML Engineer** | 🏥 **Healthcare Technologist**
 
 [![Python](https://img.shields.io/badge/-Python%20%2F%20ML-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/borbert)
