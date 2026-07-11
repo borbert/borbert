@@ -26,8 +26,8 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 
 ## What I'm Building
 - [Snap2Shop](https://snap2shop.net) -- Snap2Shop is a Next.js SaaS app that helps users capture recipes (via OCR or URL), plan meals, and turn those plans into grocery shopping lists. It can finalize those lists into orders and hand them off to Walmart for online pickup or delivery checkout.
-- [RedditRadar](beta)(https://redditradar.borbert.workers.dev/) -- Reddit Radar is a dashboard for finding relevant Reddit posts in target subreddits, scoring them as outreach opportunities, and drafting helpful replies for you to post manually. It tracks what you’ve posted and how those comments perform over time, a lightweight CRM for Reddit growth.
-- [TripPlanner](beta)(https://trip-planner.borbert.workers.dev/) -- Trip Planner is a full-stack web app for building day-by-day travel itineraries on a calendar, viewing them on a map, and tracking a pre-trip booking checklist with live cost totals. You can also chat with an AI planner to fine-tune your itinerary, and it ships with a reference NYC trip as seed data.
+- [RedditRadar (beta)](https://redditradar.borbert.workers.dev/) -- Reddit Radar is a dashboard for finding relevant Reddit posts in target subreddits, scoring them as outreach opportunities, and drafting helpful replies for you to post manually. It tracks what you’ve posted and how those comments perform over time, a lightweight CRM for Reddit growth.
+- [TripPlanner (beta)](https://trip-planner.borbert.workers.dev/) -- Trip Planner is a full-stack web app for building day-by-day travel itineraries on a calendar, viewing them on a map, and tracking a pre-trip booking checklist with live cost totals. You can also chat with an AI planner to fine-tune your itinerary, and it ships with a reference NYC trip as seed data.
 
 ---
 
