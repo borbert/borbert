@@ -26,7 +26,7 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 
 ## What I'm Building
 - [Snap2Shop](https://snap2shop.net)
-- [RedditRadar](https://redditradar.borbert.workers.dev/)
+- [RedditRadar](https://redditradar.borbert.workers.dev/) -- Reddit Radar is a dashboard for finding relevant Reddit posts in target subreddits, scoring them as outreach opportunities, and drafting helpful replies for you to post manually. It tracks what you’ve posted and how those comments perform over time—like a lightweight CRM for Reddit growth.
 - [TripPlanner](https://trip-planner.borbert.workers.dev/)
 
 ---
