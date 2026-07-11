@@ -15,11 +15,11 @@
 
 ## About Me
 
-PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** because the biggest unsolved problems in healthcare live at the intersection of clinical knowledge and modern AI — and I intend to solve them.
+PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** because the biggest unsolved problems in healthcare live at the intersection of clinical knowledge and modern AI implementations.
 
 - 🏢 Founder, **[Innovative Tech Consulting](https://innovative-tech-consulting.com)** — technology & AI solutions for real-world problems
 - 🏥 Director of Pharmacy Data Analytics & Innovation at a major health system
-- ⚙️ Lean Six Sigma Black Belt — I automate before I do anything manually twice
+- ⚙️ Lean Six Sigma Black Belt
 - 🎖️ Army Veteran
 
 ---
