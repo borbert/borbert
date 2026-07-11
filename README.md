@@ -53,20 +53,25 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 ![NLP](https://img.shields.io/badge/-NLP%20%2F%20Transformers-7952B3?style=flat-square&logo=huggingface&logoColor=white)
 ![LLMs](https://img.shields.io/badge/-LLMs%20(BERT%2C%20BART%2C%20LLaMA)-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-**Data & Cloud**
+**Cloud & Platforms**
 
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/-Fly.io-7B3FE4?style=flat-square&logo=flydotio&logoColor=white)
+
+**Databases & Data**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
+![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+![Turso](https://img.shields.io/badge/-Turso-4FF8D2?style=flat-square&logo=turso&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
