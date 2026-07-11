@@ -6,7 +6,7 @@
 [![LLMs](https://img.shields.io/badge/-LLMs%20%26%20Generative%20AI-000000?style=flat-square&logo=anthropic&logoColor=white)](https://github.com/borbert)
 [![Healthcare](https://img.shields.io/badge/-Healthcare%20Data%20%26%20Analytics-E63946?style=flat-square&logo=redcross&logoColor=white)](https://github.com/borbert)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/borbert)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 
 
 > Using AI to bend the cost curve in healthcare. Pharmacist by training, engineer by obsession.
@@ -39,7 +39,7 @@ PharmD turned AI/ML engineer. I went back for a **Master of Computer Science** b
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Zig](https://img.shields.io/badge/-Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
 ![Odin](https://img.shields.io/badge/-Odin-1E5085?style=flat-square&logo=odin&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
